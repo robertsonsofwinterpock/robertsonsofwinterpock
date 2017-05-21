@@ -1,0 +1,136 @@
+.columns
+{
+background-image:url(../../diamond/web/images/columns.jpg);
+}
+
+.redtext {
+	font-size: 14px;
+	font-family: Georgia, verdana;
+	color: #be0000;
+	text-decoration:none;
+	line-height: 20px;
+}
+
+.redtextsmall {
+	font-size: 11px;
+	font-family: arial,helvetica;
+	color: #be0000;
+	text-decoration:none;
+	line-height: 20px;
+}
+
+.bottomlink{
+		font-size: 12px;
+		color:#ffffff;
+		font-family:arial,helvetica;
+		text-decoration:underline;
+		line-height: 150%;
+	}
+
+.contentlink {
+		font-size: 11px;
+		color:#010185;
+		font-family:arial,helvetica;
+		text-decoration:underline;
+		line-height: 150%;
+	}	
+
+.greentext {
+	font-size: 16px;
+	font-family: Georgia, Times New Roman, arial;
+	color: #004218;
+	font-weight:bold;
+	text-decoration:none;
+	line-height: 20px;
+}
+
+.subhead {
+	font-size: 14px;
+	font-family: verdana;
+	font-weight: bold;
+	color: #8B8A8A;
+	text-decoration:none;
+	line-height: 20px;
+}
+
+
+.content {
+	font-size: 12px;
+	font-family: Georgia, Times New Roman, arial;
+	color: #004218;
+	text-decoration:none;
+	line-height: 18px;
+}
+
+.contentb {
+	font-size: 16px;
+	font-family: verdana;
+	color: #000000;
+	text-decoration:none;
+	line-height: 16px;
+}
+
+.lines {
+	font-size: 18px;
+	font-family: verdana;
+	color: #be0000;
+	text-decoration:none;
+	line-height: 16px;
+}
+
+.topnav {
+		font-size: 11px;
+		color:#333333;
+		font-family:arial;
+		text-decoration:none;
+		line-height: 150%;
+	}	
+	
+.topnav A {
+		color:#333333;
+		font-size:11px;
+		font-family:arial;
+		text-decoration:none;
+	}
+	
+.topnav A:visited {
+		font-size:11px;
+		color:#999999;
+		font-family:arial;
+		text-decoration:none;
+	}
+
+.topnav A:hover {
+		color:#BE0000;
+		text-decoration:underline;
+		
+		}
+		
+.rightnav {
+		font-size: 11px;
+		color:#ffffff;
+		font-family:arial;
+		text-decoration:none;
+		line-height: 18px;
+	}	
+	
+.rightnav A {
+		color:#ffffff;
+		font-size:11px;
+		font-family:arial;
+		text-decoration:none;
+	}
+
+.rightnav A:hover {
+		color:#e0e0e0;
+		text-decoration:underline;
+		
+		}
+		
+
+	
+#li {
+        position:relative;
+        margin-left:-25px;
+        margin-right:10px;
+}
